@@ -4,7 +4,7 @@
 
 # Have You Tried Turning It Off?
 
-One funny line from a hopeless tech support agent to a desperate customer: the agent cheerfully tries the classic fix on his own machine mid-call, while the customer is still explaining the deadline, and declares victory over two black screens. The joke is his cheerful uselessness, never the customer.
+One funny line from a hopeless tech support agent to a desperate customer. Mid-call, while the customer is still explaining the deadline, the agent cheerfully tries the classic fix on his own machine and declares victory over two black screens. The joke is his cheerful uselessness, never the customer.
 
 ## Run it
 
